@@ -1,5 +1,4 @@
 # Pandas-Factorplots-for-Dataframes-and-Series
-Matplotlib, Pandas factorplot functions
 
 Functions to create factorplots in matplotlib for Pandas dataframes and series of real numbers. 
 
