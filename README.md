@@ -209,7 +209,7 @@ column_fun(df, d1)
 ```
 
 
-![pdf1](https://github.com/mastraut/Pandas-Factorplots-for-Dataframes-and-Series/blob/master/myfile1.pdf)
+![png1](myfile1.png)
 
 
 
@@ -218,7 +218,7 @@ column_fun(ser, d2)
 ```
 
 
-![pdf2](https://github.com/mastraut/Pandas-Factorplots-for-Dataframes-and-Series/blob/master/myfile2.pdf)
+![png1](myfile2.png)
 
 
 
@@ -227,7 +227,7 @@ row_fun(ser, d3)
 ```
 
 
-![pdf3](https://github.com/mastraut/Pandas-Factorplots-for-Dataframes-and-Series/blob/master/myfile3.pdf)
+![png1](myfile3.png)
 
 
 
