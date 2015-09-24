@@ -18,7 +18,7 @@ column_fun(df, d1)
 ```
 
 
-![png1](myfile1.png)
+![png1](./Images/myfile1.png)
 
 
 
@@ -27,7 +27,7 @@ column_fun(ser, d2)
 ```
 
 
-![png1](myfile2.png)
+![png1](./Images/myfile2.png)
 
 
 
@@ -36,7 +36,7 @@ row_fun(ser, d3)
 ```
 
 
-![png1](myfile3.png)
+![png1](./Images/myfile3.png)
 
 
 
