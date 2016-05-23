@@ -2,6 +2,7 @@
 
 Functions to create factorplots in matplotlib for Pandas dataframes and series of real numbers. 
 
+
 A factor plot is simply the same plot generated for different response and factor variables and arranged on a single page. The underlying plot generated can be any univariate or bivariate plot.  This application groups by rows from the dataframe and displays a bar plot of values/percentages per column. 
 
 Parameters to be set include:
